@@ -1,5 +1,7 @@
 # helix
 
+> **This project has moved to [github.com/tensorwire/helix](https://github.com/tensorwire/helix).** Updates will be published under [github.com/tensorwire](https://github.com/tensorwire). Code remaining in open-ai-org is unmaintained.
+
 DNA-inspired gradient descent optimizer. Models the molecular geometry of B-form DNA to couple parameter pairs and drive training. Forward-only training mode eliminates the backward pass entirely.
 
 ## Install
